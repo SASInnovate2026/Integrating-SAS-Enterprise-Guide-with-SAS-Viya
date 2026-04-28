@@ -1,17 +1,17 @@
 # Integrating-SAS-Enterprise-Guide-with-SAS-Viya
-Files Overview
+## Files Overview
 
--Demo Instructions and Presentation Slides
+Demo Instructions and Presentation Slides
 
-	Integrating SAS Enterprise Guide with SAS Viya.pdf
+* Integrating SAS Enterprise Guide with SAS Viya.pdf
 
--Files Used in the Demo(s)
+Files Used in the Demo(s)
 
-	Exceptions.egp
- 
-	Getting Started with PROC PYTHON.sas
- 
-	Getting Started with PROC PYTHON - solution.sas
+* Exceptions.egp
+
+* Getting Started with PROC PYTHON.sas
+
+* Getting Started with PROC PYTHON - solution.sas
 
 ## Important Information
 
