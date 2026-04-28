@@ -13,6 +13,9 @@ Files Used in the Demo(s)
 
 * Getting Started with PROC PYTHON - solution.sas
 
+## Presenter Contact Information
+Kristin.Snyder@sas.com
+
 ## Important Information
 
 This site provides the collateral for a specific SAS Innovate 2026 session provided by SAS Education.  The instructions in these pages are specific to the workshop and should not be considered a replacement for the official [SAS Documentation](http://documentation.sas.com).  Some parts of these instructions will only work correctly in the Lab environments provided by SAS Education.
